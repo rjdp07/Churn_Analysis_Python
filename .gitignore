@@ -1,0 +1,10 @@
+.env
+.churn_py
+env/
+churn_py/Include/
+churn_py/Lib/
+churn_py/Scripts/
+churn_py/share/
+ENV/
+env.bak/
+churn_py.bak/
